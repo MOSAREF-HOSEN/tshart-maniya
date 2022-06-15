@@ -1,0 +1,64 @@
+/* nav style */
+
+
+ul{
+    list-style: none;
+}
+.color{
+    color: #A4BC46;
+}
+.bgsp{
+    color: #363958;
+
+}
+/* button  */
+.profile{
+    width: 80%;
+   
+}
+.back{
+  background-color:#A4BC46
+  ;
+  color: white;
+  
+  padding: 2% 5%;
+  border-radius: 5px;
+  font-weight: 600;
+
+}
+.head{
+    color:  #FABE4C;
+   
+}
+.heads{
+    color:#363958 ;
+}
+/* card */
+.card{
+    width: 293px;
+    height: 293px;
+    border-radius: 5%;
+}
+.spec{
+    justify-content: space-around;
+}
+.cardH{
+    color: #363958;
+    width: 255px;
+    height: 58px;
+    font-size: 35px;
+    font-weight: 600;
+}
+/* font  */
+
+  
+
+.bit{
+  font-size: 5rem;
+}
+.foter{
+ width: 100%;
+ margin-top: 5rem;
+
+
+}
